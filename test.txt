@@ -1,1 +1,8 @@
-grtgrtgertg
+create folder 
+cmd open
+git clone copy path
+folder show cd
+git add 1.txt.txt
+git status
+git commit -m " "
+git push
